@@ -4,11 +4,12 @@
 
 ## Сборка и запуск
 
-Компиляция 
+Компиляция :
 ``` gcc minigit.c -o minigit.exe ```
-Запуск
+
+Запуск:
 ``` ./minigit.exe ```
 
-Компиляция и запуск тестов
-``` gcc test.c -o test.exe
-./test.exe ```
+Компиляция и запуск тестов:
+``` gcc test.c -o test.exe ```
+``` ./test.exe ```
